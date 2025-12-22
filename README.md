@@ -50,7 +50,7 @@ meme-analysis-project/
 ## Installation & Setup
 
 1. **Clone the repository**
-   If cloning from github, use the following command. Or set up virtual environment and run the cells in meme_project_outline.ipynb file directly.
+   If cloning from github, use the following command. Or set up virtual environment. And run the cells in meme_project_outline.ipynb file directly.
    ```bash
    git clone <repository-url>
    cd meme-analysis-project
