@@ -26,7 +26,6 @@ meme-analysis-project/
 │   ├── bluesky_images/               # Meme images from Bluesky
 │   └── plots/                        # Generated visualizations
 ├── meme_project_outline.ipynb         # Main analysis notebook
-├── merged.csv                         # Combined dataset
 └── README.md                          # This file
 ```
 
@@ -81,4 +80,4 @@ Feel free to submit issues or pull requests to improve the analysis or add new f
 
 ## License
 
-[Add appropriate license here]
+This is an academic project created for educational purposes. Use is restricted to educational and non-commercial purposes.
