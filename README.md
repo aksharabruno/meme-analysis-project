@@ -19,7 +19,7 @@ meme-analysis-project/
 │   │   ├── bluesky_with_templates.csv
 │   │   ├── reddit_monthly_template_summary.csv
 │   │   └── bluesky_monthly_template_summary.csv
-│   └── miscellaneous/                # Additional datasets and analysis files
+│   └── miscellaneous/                # Additional datasets and analysis files, all combined to either raw or processed files above
 │       └── [Various meme template datasets]
 ├── images/
 │   ├── reddit_images/                # Meme images from Reddit
@@ -50,20 +50,10 @@ meme-analysis-project/
 ## Installation & Setup
 
 1. **Clone the repository**
+   If cloning from github, use the following command. Or set up virtual environment and run the cells in meme_project_outline.ipynb file directly.
    ```bash
    git clone <repository-url>
    cd meme-analysis-project
-   ```
-
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-   Required packages: pandas, numpy, matplotlib, seaborn, jupyter
-
-3. **Jupyter notebook**
-   ```bash
-   jupyter notebook meme_project_outline.ipynb 
    ```
 
 ## Analysis Highlights
@@ -73,11 +63,3 @@ meme-analysis-project/
 - **Cross-Platform Differences**: Meme popularity is platform-specific; Reddit shows concentrated engagement while Bluesky is more evenly distributed
 - **Clustering & Embeddings**: Meme templates do not form clear visual clusters; platform effects significantly influence meme structure and meaning
 - **Limitations**: Analysis restricted to popular templates; API constraints and survivorship bias affect data completeness; engagement metrics simplified (likes/replies)
-
-## Contributing
-
-Feel free to submit issues or pull requests to improve the analysis or add new features.
-
-## License
-
-This is an academic project created for educational purposes. Use is restricted to educational and non-commercial purposes.
