@@ -63,7 +63,7 @@ meme-analysis-project/
 
 3. **Jupyter notebook**
    ```bash
-   jupyter notebook meme_project_outline.ipynb: Main analysis notebook containing data exploration, visualization, and statistical analysis
+   jupyter notebook meme_project_outline.ipynb 
    ```
 
 ## Analysis Highlights
