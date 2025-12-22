@@ -25,8 +25,8 @@ meme-analysis-project/
 │   ├── reddit_images/                # Meme images from Reddit
 │   ├── bluesky_images/               # Meme images from Bluesky
 │   └── plots/                        # Generated visualizations
-├── meme_project_outline.ipynb         # Main analysis notebook
-└── README.md                          # This file
+├── meme_project_outline.ipynb        # Main analysis notebook
+└── README.md                         # This file
 ```
 
 ## Data Sources
